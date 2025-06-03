@@ -1,0 +1,9 @@
+earthengine-api
+streamlit
+pillow
+numpy
+matplotlib
+opencv-python-headless
+plotly
+folium
+streamlit-folium 
